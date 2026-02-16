@@ -1,16 +1,14 @@
-## Hi there 👋
+## Nik Cubrilovic
 
-<!--
-**nc9/nc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software + Data Engineer. Sydney, Australia. 
 
-Here are some ideas to get you started:
+- 🌐 [nikcub.me](https://nikcub.me) is the website
+- 🐦 [@dir](https://x.com/dir) is the twitter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- 🐿️ [squirrelscan](https://github.com/squirrelscan/squirrelscan) - Website audit tool for perf, security, seo, etc. issues for coding agents [website](https://squirrelscan.com)
+- ⚡ [Open Electricity](https://github.com/opennem/opennem) - Australian energy market data platform (formerly OpenNEM) [website](https://openelectricity.org.au)
+- 🌲 [timberline](https://github.com/nc9/timberline) - Git worktree manager + more for cli users of coding agents
+- 📋 [taskmux](https://github.com/nc9/taskmux) - Task manager + more for coding agent workflows (uses tmux + tailscale)
+- 🧩 [skills](https://github.com/nc9/skills) - My collection of agent skills for claude code, codex, cursor et al.
