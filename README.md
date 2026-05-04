@@ -9,6 +9,7 @@ Software + Data Engineer. Sydney, Australia.
 
 - 🐿️ [squirrelscan](https://github.com/squirrelscan/squirrelscan) - Website audit tool for perf, security, seo, etc. issues for coding agents [website](https://squirrelscan.com)
 - ⚡ [Open Electricity](https://github.com/opennem/opennem) - Australian energy market data platform (formerly OpenNEM) [website](https://openelectricity.org.au)
+- 🍊 [Tangly](https://github.com/tanglydocs/tangly) - Markdown and Astro based documentation framework [website](https://tangly.dev)
 - 🌲 [timberline](https://github.com/nc9/timberline) - Git worktree manager + more for cli users of coding agents
 - 📋 [taskmux](https://github.com/nc9/taskmux) - Task manager + more for coding agent workflows (uses tmux + tailscale)
 - 🧠 [rememble](https://github.com/rememble/rememble) - Memory server with MCP for coding agents (SQLite + sqlite-vec + FTS5 + BM25) 
