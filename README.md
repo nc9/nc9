@@ -16,4 +16,4 @@ Software + Data Engineer. Sydney, Australia.
 - 🧩 [skills](https://github.com/nc9/skills) - My collection of agent skills for claude code, codex, cursor et al.
 - 🏭 [coalwatch](https://github.com/nc9/coalwatch) - Overview of Australia's operational coal facilities [website](https://coalwatch.com.au)
 - 💨 [windwatch](https://github.com/nc9/windwatch.com.au) - Monitor Australia's wind generation facilities [website](https://windwatch.com.au)
-- 🐍 [sentry-python](https://github.com/nc9/sentry-python) - Sentry CMS Python client with async support
+- 🐍 [python-sanity](https://github.com/nc9/python-sanity) - Sanity CMS Python client with async support
