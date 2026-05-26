@@ -8,7 +8,7 @@ Software + Data Engineer. Sydney, Australia.
 ### Projects
 
 - 🐿️ [squirrelscan](https://github.com/squirrelscan/squirrelscan) - Website audit tool for perf, security, seo, etc. issues for coding agents [website](https://squirrelscan.com)
-- 🤠 - [drover](https://github.com/nc9/drover) - A declarative, strongly-typed, Effect-native agent harness library for TypeScript.
+- 🤠 [drover](https://github.com/nc9/drover) - A declarative, strongly-typed, Effect-native agent harness library for TypeScript [docs](https://nc9.github.io/drover/introduction/)
 - 🍊 [Tangly](https://github.com/tanglydocs/tangly) - Markdown and Astro based documentation framework [website](https://tangly.dev)
 - ⚡ [Open Electricity](https://github.com/opennem/opennem) - Australian energy market data platform (formerly OpenNEM) [website](https://openelectricity.org.au)
 - 🌲 [timberline](https://github.com/nc9/timberline) - Git worktree manager + more for cli users of coding agents
