@@ -8,11 +8,12 @@ Software + Data Engineer. Sydney, Australia.
 ### Projects
 
 - 🐿️ [squirrelscan](https://github.com/squirrelscan/squirrelscan) - Website audit tool for perf, security, seo, etc. issues for coding agents [website](https://squirrelscan.com)
-- ⚡ [Open Electricity](https://github.com/opennem/opennem) - Australian energy market data platform (formerly OpenNEM) [website](https://openelectricity.org.au)
+- 🤠 - [drover](https://github.com/nc9/drover) - A declarative, strongly-typed, Effect-native agent harness library for TypeScript.
 - 🍊 [Tangly](https://github.com/tanglydocs/tangly) - Markdown and Astro based documentation framework [website](https://tangly.dev)
+- ⚡ [Open Electricity](https://github.com/opennem/opennem) - Australian energy market data platform (formerly OpenNEM) [website](https://openelectricity.org.au)
 - 🌲 [timberline](https://github.com/nc9/timberline) - Git worktree manager + more for cli users of coding agents
-- 📋 [taskmux](https://github.com/nc9/taskmux) - Task manager + more for coding agent workflows
-- 🧠 [rememble](https://github.com/rememble/rememble) - Memory server with MCP for coding agents (SQLite + sqlite-vec + FTS5 + BM25) 
+- 📋 [taskmux](https://github.com/nc9/taskmux) - Task manager + more for agent workflows
+- 🧠 [rememble](https://github.com/rememble/rememble) - Memory server with MCP for agents (SQLite + sqlite-vec + FTS5 + BM25) 
 - 🧩 [skills](https://github.com/nc9/skills) - My collection of agent skills for claude code, codex, cursor et al.
 - 🏭 [coalwatch](https://github.com/nc9/coalwatch) - Overview of Australia's operational coal facilities [website](https://coalwatch.com.au)
 - 💨 [windwatch](https://github.com/nc9/windwatch.com.au) - Monitor Australia's wind generation facilities [website](https://windwatch.com.au)
